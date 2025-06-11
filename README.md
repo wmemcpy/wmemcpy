@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Welcome to the my README.md 🌟
+# 🌟 Welcome to my Digital Nexus 🌟
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=0x36D76289&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Security%20Researcher%20%7C%20Systems%20Architect%20%7C%20Code%20Artisan&descAlignY=51&descAlign=center" width="100%"/>
 
@@ -56,11 +56,11 @@
 ```bash
 #!/bin/bash
 echo "Initializing 0x36D76289..."
-echo "🔋 Energy Level:   ███████████ 100%"
-echo "🧠 Knowledge Base: █████████░░ 85%"
-echo "💻 Coding Skills:  ███████████ 95%"
-echo "🔐 Security Exp:   ████████░░░ 80%"
-echo "☕ Coffee Level:   ██████████░ 90%"
+echo "🔋 Energy Level:   ████████████ 100%"
+echo "🧠 Knowledge Base: █████████░░░  85%"
+echo "💻 Coding Skills:  ███████████░  95%"
+echo "🔐 Security Exp:   ████████░░░░  80%"
+echo "☕ Coffee Level:   ██████████░░  90%"
 echo ""
 echo "Status: READY FOR DEPLOYMENT ✅"
 ```
@@ -71,7 +71,7 @@ echo "Status: READY FOR DEPLOYMENT ✅"
 
 <div align="center">
   
-  <img src="https://github.com/0x36D76289/0x36D76289/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/0x36D76289/0x36D76289/output/github-contribution-grid-snake-dark.svg" width="100%">
   
 </div>
 
@@ -105,7 +105,7 @@ echo "Status: READY FOR DEPLOYMENT ✅"
 
 **🔸 Cybersecurity & Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=linux,kali,debian,ubuntu,docker,kubernetes,aws,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,kubernetes,aws,nginx,vim&theme=dark" />
 
 **🔸 Web Technologies**
 <br>
@@ -270,6 +270,12 @@ interests:
 </div>
 
 <div align="center">
+<!-- 
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:your-email@proton.me)
+[![Signal](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white)](https://signal.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver) -->
 
 **🔐 PGP Key ID:** `0x36D76289` | **🔑 SSH Fingerprint:** `SHA256:...`
 
@@ -294,6 +300,8 @@ interests:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=STAY+SECURE&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=65&desc=May+your+code+compile+and+your+vulnerabilities+be+patched&descAlignY=85&descAlign=center" width="100%"/>
 
 </div>
+
+<div align="center">
 
 <div align="center">
 
