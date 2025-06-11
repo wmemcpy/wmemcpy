@@ -105,7 +105,7 @@ echo "Status: READY FOR DEPLOYMENT ✅"
 
 **🔸 Cybersecurity & Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=linux,kali,docker,kubernetes,aws,nginx,wireshark&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,kali,docker,kubernetes,aws,nginx&theme=dark" />
 
 **🔸 Web Technologies**
 <br>
