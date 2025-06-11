@@ -129,7 +129,7 @@ echo "Status: READY FOR DEPLOYMENT ✅"
 
 <div align="center">
   <picture>
-    <img src="https://raw.githubusercontent.com/0x36D76289/0x36D76289/main/github-metrics.svg" alt="Detailed GitHub Metrics" width="100%">
+    <img src="https://raw.githubusercontent.com/0x36D76289/0x36D76289/refs/heads/main/github-metrics.svg" alt="Detailed GitHub Metrics" width="100%">
   </picture>
 </div>
 
