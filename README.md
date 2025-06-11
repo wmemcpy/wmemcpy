@@ -125,19 +125,7 @@ echo "Status: READY FOR DEPLOYMENT ✅"
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,8,17&height=3&section=header" width="100%"/>
 
-</div>
-
-<div align="center">
-  <picture>
-    <img src="https://raw.githubusercontent.com/0x36D76289/0x36D76289/refs/heads/main/github-metrics.svg" alt="Detailed GitHub Metrics" width="100%">
-  </picture>
-</div>
-
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-<div align="center">
+![Metric](https://raw.githubusercontent.com/0x36D76289/0x36D76289/refs/heads/main/github-metrics.svg)
 
 **🔥 PERFORMANCE METRICS**
   
