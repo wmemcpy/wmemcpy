@@ -105,7 +105,7 @@ echo "Status: READY FOR DEPLOYMENT ✅"
 
 **🔸 Cybersecurity & Tools**
 <br>
-<img src="https://skillicons.dev/icons?i=linux,kali,docker,kubernetes,aws,nginx&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,kali,debian,ubuntu,docker,kubernetes,aws,nginx&theme=dark" />
 
 **🔸 Web Technologies**
 <br>
@@ -113,7 +113,7 @@ echo "Status: READY FOR DEPLOYMENT ✅"
 
 **🔸 Databases & DevOps**
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,git,github,gitlab,jenkins&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,git,github,gitlab&theme=dark" />
 
 </div>
 
