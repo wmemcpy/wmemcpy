@@ -36,7 +36,7 @@
 └─$ cat /etc/passwd | grep 0x36D76289
 ┌─ CLASSIFIED INTEL ─────────────┐
 │                                │
-│  🇫🇷 Location: France          │
+│  🇫🇷 Location: France            │
 │  🎂 Age: 21 Years Old          │
 │  🏫 Status: 42 Student         │
 │  🗣️ Languages: FR | EN         │
@@ -56,11 +56,11 @@
 ```bash
 #!/bin/bash
 echo "Initializing 0x36D76289..."
-echo "🔋 Energy Level: ████████████ 100%"
+echo "🔋 Energy Level:   ███████████ 100%"
 echo "🧠 Knowledge Base: █████████░░ 85%"
-echo "💻 Coding Skills: ███████████ 95%"
-echo "🔐 Security Exp: ████████░░░ 80%"
-echo "☕ Coffee Level: ██████████░ 90%"
+echo "💻 Coding Skills:  ███████████ 95%"
+echo "🔐 Security Exp:   ████████░░░ 80%"
+echo "☕ Coffee Level:   ██████████░ 90%"
 echo ""
 echo "Status: READY FOR DEPLOYMENT ✅"
 ```
