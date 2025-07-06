@@ -24,82 +24,30 @@ jobs:
           user: ${{ github.repository_owner }}
           template: classic
           base: header, activity, community, repositories, metadata
+          base_indepth: yes
           config_display: columns
-          config_output: svg
-          config_timezone: UTC
-          config_padding: 0, 8 + 11%
           config_octicon: yes
-          repositories_forks: yes
-          repositories_affiliations: owner
-          repositories: 100
-          repositories_batch: 50
-          repositories_skipped: ""
-          config_order: base.header, base.activity+community, base.repositories
-          
-          # 🈷️ Languages plugin (disabled recently used)
+          config_timezone: Europe/Paris
+          config_twemoji: yes
           plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_details: lines, percentage
-          plugin_languages_limit: 8
           plugin_languages_analysis_timeout: 15
-          plugin_languages_sections: most-used
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
           plugin_languages_colors: github
-          plugin_languages_threshold: 2%
-          
-          # 🏆 Achievements plugin (disabled)
-          plugin_achievements: no
-          
-          # 📅 Isometric commit calendar (disabled)
-          plugin_isocalendar: no
-          
-          # 💡 Coding habits (disabled)
-          plugin_habits: no
-          
-          # 📰 Recent activity (réduit)
-          plugin_activity: yes
-          plugin_activity_limit: 3
-          plugin_activity_load: 100
-          plugin_activity_days: 7
-          plugin_activity_filter: all
-          plugin_activity_visibility: all
-          plugin_activity_timestamps: no
-          
-          # 🌟 Recently starred repositories
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: classic
+          plugin_stargazers_days: 14
+          plugin_stargazers_worldmap: yes
           plugin_stars: yes
-          plugin_stars_limit: 3
-          
-          # 📌 Starred topics
-          plugin_topics: yes
-          plugin_topics_sort: stars
-          plugin_topics_mode: starred
-          plugin_topics_limit: 10
-          
-          # 📓 Featured repositories
-          plugin_repositories: yes
-          plugin_repositories_order: featured, pinned, starred
-          plugin_repositories_forks: yes
-          plugin_repositories_affiliations: owner
-          
-          # 👨‍💻 Lines of code changed
-          plugin_lines: yes
-          plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 3
-          plugin_lines_sections: base
-          
-          # 🧑‍🤝‍🧑 People (réduit)
-          plugin_people: yes
-          plugin_people_limit: 12
-          plugin_people_identicons: no
-          plugin_people_size: 24
-          plugin_people_types: followers, following
-          plugin_people_shuffle: no
-          
-          # 🙋 Introduction
-          plugin_introduction: yes
-          plugin_introduction_title: yes
-          
-          # Additional display optimizations
-          optimize: css, xml, svg
+          plugin_stars_limit: 4
 
   snake:
     permissions: 
