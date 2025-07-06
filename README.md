@@ -1,9 +1,4 @@
 <div align="center">
-
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=14&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&repeat=true&lines=[SYSTEM+INITIALIZED];........................................;In+a+world+of+endless+possibilities;We+craft+solutions+from+pure+logic;Every+bug+is+a+puzzle+to+solve;Every+feature+is+a+dream+to+build;........................................;[AUTHENTICATION+SUCCESSFUL];[ACCESS+GRANTED];[WELCOME+TO+THE+MATRIX]" alt="Matrix Quote">
-  </p>
-
   <p>
     <img
       src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=0x36D76289;Student;Keep+it+simple,+stupid!"
@@ -27,16 +22,10 @@
     <img src="https://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
   </p>
 
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=0x36D76289&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff" alt="GitHub Stats">
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x36D76289&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" alt="GitHub Streak">
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=0x36D76289&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff&hide_border=true" alt="GitHub Stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x36D76289&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=true" alt="GitHub Streak">
+  </p>
 
   <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x36D76289&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Digital Footprint">
