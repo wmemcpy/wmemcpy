@@ -22,10 +22,17 @@
     <img src="https://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code">
   </p>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=0x36D76289&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff&hide_border=true" alt="GitHub Stats" style="vertical-align: top;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x36D76289&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=true" alt="GitHub Streak" style="vertical-align: top;">
-  </div>
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=0x36D76289&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff&hide_border=true" alt="GitHub Stats">
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x36D76289&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=true" alt="GitHub Streak">
+      </td>
+    </tr>
+  </table>
+
 
   <p>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x36D76289&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Digital Footprint">
