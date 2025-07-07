@@ -7,7 +7,7 @@
   </p>
 
   <p>
-    <img src="https://i.pinimg.com/originals/df/c9/de/dfc9de58f31107dea5d340e7dcecc362.gif" alt="Coding">
+    <img src="https://i.pinimg.com/originals/df/c9/de/dfc9de58f31107dea5d340e7dcecc362.gif" alt="Coding" style="border-radius: 10px;">
   </p>
 
   <table align="center">
@@ -70,16 +70,16 @@
   <table align="center">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=0x36D76289&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff&hide_border=true" alt="GitHub Stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=0x36D76289&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=ffffff&hide_border=true" alt="GitHub Stats" style="border-radius: 10px;">
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x36D76289&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=true" alt="GitHub Streak">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x36D76289&theme=dark&background=000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&hide_border=true" alt="GitHub Streak" style="border-radius: 10px;">
       </td>
     </tr>
   </table>
 
   <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x36D76289&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Digital Footprint">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x36D76289&theme=github-compact&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Digital Footprint" style="border-radius: 10px;">
   </p>
 
   <p>
