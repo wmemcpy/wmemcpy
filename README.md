@@ -1,7 +1,7 @@
 <div align="center">
   <p>
     <img
-      src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=Who i am ?;𝐀𝐥𝐥𝐚𝐲;What do i do ?;Im studying;Whats my philosophy ?;Keep it simple, stupid !"
+      src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=18&duration=3000&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=Who+i+am+?;𝐀𝐥𝐥𝐚𝐲;What+do+i+do+?;Im+studying;Whats+my+philosophy+?;Keep+it+simple,+stupid+!"
       alt="Identity"
     >
   </p>
