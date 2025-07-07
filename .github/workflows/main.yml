@@ -63,6 +63,6 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake-mono.svg?color_snake=#000000&color_dots=#808080,#606060,#404040,#202020,#000000
+            dist/github-contribution-grid-snake-grey.svg?color_snake=111&color_dots=#eee,#aaa,#888,#666,#444
         env:
           GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN }}
